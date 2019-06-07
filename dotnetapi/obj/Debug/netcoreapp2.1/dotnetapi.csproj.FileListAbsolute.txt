@@ -1,0 +1,14 @@
+D:\WorkspaceGit\DotNetApi\dotnetapi\bin\Debug\netcoreapp2.1\dotnetapi.deps.json
+D:\WorkspaceGit\DotNetApi\dotnetapi\bin\Debug\netcoreapp2.1\dotnetapi.runtimeconfig.json
+D:\WorkspaceGit\DotNetApi\dotnetapi\bin\Debug\netcoreapp2.1\dotnetapi.runtimeconfig.dev.json
+D:\WorkspaceGit\DotNetApi\dotnetapi\bin\Debug\netcoreapp2.1\dotnetapi.dll
+D:\WorkspaceGit\DotNetApi\dotnetapi\bin\Debug\netcoreapp2.1\dotnetapi.pdb
+D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.csproj.CoreCompileInputs.cache
+D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.RazorAssemblyInfo.cache
+D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.RazorAssemblyInfo.cs
+D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.AssemblyInfoInputs.cache
+D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.AssemblyInfo.cs
+D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.RazorTargetAssemblyInfo.cache
+D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.dll
+D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.pdb
+d:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.csprojAssemblyReference.cache
