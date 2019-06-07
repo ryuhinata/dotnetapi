@@ -11,4 +11,3 @@ D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.AssemblyIn
 D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.RazorTargetAssemblyInfo.cache
 D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.dll
 D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.pdb
-d:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.csprojAssemblyReference.cache

@@ -12,7 +12,6 @@ namespace dotnetapi
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseUrls("http://localhost:5000", "http://10.10.26.204:5000")
                 .UseStartup<Startup>();
     }
 }
