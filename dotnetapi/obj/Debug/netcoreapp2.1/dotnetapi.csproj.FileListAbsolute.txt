@@ -3,7 +3,6 @@ D:\WorkspaceGit\DotNetApi\dotnetapi\bin\Debug\netcoreapp2.1\dotnetapi.runtimecon
 D:\WorkspaceGit\DotNetApi\dotnetapi\bin\Debug\netcoreapp2.1\dotnetapi.runtimeconfig.dev.json
 D:\WorkspaceGit\DotNetApi\dotnetapi\bin\Debug\netcoreapp2.1\dotnetapi.dll
 D:\WorkspaceGit\DotNetApi\dotnetapi\bin\Debug\netcoreapp2.1\dotnetapi.pdb
-D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.csproj.CoreCompileInputs.cache
 D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.RazorAssemblyInfo.cache
 D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.RazorAssemblyInfo.cs
 D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.AssemblyInfoInputs.cache
@@ -11,4 +10,16 @@ D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.AssemblyIn
 D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.RazorTargetAssemblyInfo.cache
 D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.dll
 D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.pdb
+D:\WorkspaceGit\DotNetApi\dotnetapi\bin\Debug\netcoreapp2.1\dotnetapi.Views.dll
+D:\WorkspaceGit\DotNetApi\dotnetapi\bin\Debug\netcoreapp2.1\dotnetapi.Views.pdb
+D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.TagHelpers.input.cache
+D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.TagHelpers.output.cache
+D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.RazorCoreGenerate.cache
+D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.RazorTargetAssemblyInfo.cs
+D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.Views.pdb
+D:\WorkspaceGit\DotNetApi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.csproj.CopyComplete
+D:\WorkspaceGit\dotnetapi\dotnetapi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\WorkspaceGit\dotnetapi\dotnetapi\bin\Debug\netcoreapp2.1\appsettings.json
+D:\WorkspaceGit\dotnetapi\dotnetapi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\WorkspaceGit\dotnetapi\dotnetapi\obj\Debug\netcoreapp2.1\Razor\View\Home\Index.cshtml.g.cs
 d:\WorkspaceGit\dotnetapi\dotnetapi\obj\Debug\netcoreapp2.1\dotnetapi.csprojAssemblyReference.cache

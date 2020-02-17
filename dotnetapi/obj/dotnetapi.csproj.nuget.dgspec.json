@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\WorkspaceGit\\DotNetApi\\dotnetapi\\dotnetapi.csproj": {}
+    "d:\\WorkspaceGit\\dotnetapi\\dotnetapi\\dotnetapi.csproj": {}
   },
   "projects": {
-    "d:\\WorkspaceGit\\DotNetApi\\dotnetapi\\dotnetapi.csproj": {
+    "d:\\WorkspaceGit\\dotnetapi\\dotnetapi\\dotnetapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\WorkspaceGit\\DotNetApi\\dotnetapi\\dotnetapi.csproj",
+        "projectUniqueName": "d:\\WorkspaceGit\\dotnetapi\\dotnetapi\\dotnetapi.csproj",
         "projectName": "dotnetapi",
-        "projectPath": "d:\\WorkspaceGit\\DotNetApi\\dotnetapi\\dotnetapi.csproj",
+        "projectPath": "d:\\WorkspaceGit\\dotnetapi\\dotnetapi\\dotnetapi.csproj",
         "packagesPath": "C:\\Users\\renaldy.widjaja39\\.nuget\\packages\\",
-        "outputPath": "d:\\WorkspaceGit\\DotNetApi\\dotnetapi\\obj\\",
+        "outputPath": "d:\\WorkspaceGit\\dotnetapi\\dotnetapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,6 +57,7 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
@@ -64,13 +65,23 @@
             "MySql.Data": {
               "target": "Package",
               "version": "[8.0.16, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
